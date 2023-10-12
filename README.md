@@ -47,7 +47,7 @@ Hi, I'm Eloho, **Developer** and **Programmer** 👨🏻‍💻 from Nigeria. I 
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taikyu&layout=compact&hide=html&theme=dracula"/>
  
   
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=taikyu&count_private=true&show_icons=true&theme=dracula&include_all_commits=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=taikyu&show_icons=true&theme=dracula"/>
 
 
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=taikyu&layout=compact&hide=html&theme=dracula" />
