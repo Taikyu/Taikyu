@@ -1,6 +1,11 @@
 <h1 align="center">Hi there 👋 Eloho desu 😉</h1>
 <h3 align="center">Full-Stack Web Developer</h3>
 
+<!--
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=taikyu&label=Profile%20views&color=0e75b6&style=flat" alt="taikyu" /> </p>
+-->
+
+
 </br>
 
 
@@ -52,7 +57,6 @@ Hi, I'm Eloho, **Developer** and **Programmer** 👨🏻‍💻 from Nigeria. I 
 
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=taikyu&layout=compact&hide=html&theme=dracula" />
   </P>
-
 
 
 
